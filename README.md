@@ -22,3 +22,9 @@ Ejecutar el Programa: Una vez compilado, ejecuta el programa con el siguiente co
 ./conversorDeMonedas
 
 Interactuar con el Programa: Sigue las instrucciones proporcionadas por el programa para  seleccionar la moneda de origen y la moneda de destino, ingresar la cantidad y obtener la conversión deseada.
+
+Autor:
+
+Luis Rosales
+angel.rosales@galileo.edu
+Carnet: 24000191
